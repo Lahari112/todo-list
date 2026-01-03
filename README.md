@@ -15,4 +15,4 @@ It allows users to add, complete, and delete tasks efficiently.
 - JavaScript
 
 ## Live Demo
-https://lahari112.github.io/to-do-list/
+https://lahari112.github.io/todo-list/
